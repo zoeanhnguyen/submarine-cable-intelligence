@@ -82,17 +82,17 @@ Self-collected via Chrome DevTools — no Kaggle, no pre-built datasets.
 - Batam, Indonesia is the #1 landing point globally with 20 cables
 - 24 countries have only 1 cable — zero redundancy
 
-**💰 Big Tech Ocean Control**
+** Big Tech Ocean Control**
 - Google: 34 cables (4.9% of global total)
 - China Telecom/Mobile/Unicom: 27 cables, averaging 10,615 km each
 - Amazon: only 1 active cable today — but 4 more under construction
 
-**⚠️ Infrastructure Risk**
+** Infrastructure Risk**
 - 33 critical nodes identified as Single Points of Failure
 - Batam failure = ~40% of Southeast Asia connectivity lost
 - Marseille, Mumbai, and Singapore each carry 16 cables
 
-**🇻🇳 Vietnam Analysis**
+** Vietnam Analysis**
 - Only 3 landing points for 97 million people
 - Vung Tau handles 50% of all cable capacity
 - 2 of 8 cables still under construction (2027)
@@ -174,57 +174,3 @@ python final_analysis.py
 by TeleGeography · Last updated: March 2026*
 ```
 
----
-
-## 💼 LINKEDIN POST
-
-Copy và đăng nguyên văn:
-
----
-
-**I asked a simple question one day:**
-
-*"Why can millions of people around the world access the same website at the same moment?"*
-
-The answer surprised me.
-
-It's not the cloud ☁️  
-It's not satellites 🛰️  
-It's **691 physical cables** lying on the ocean floor.
-
-So I spent 2 weeks mapping all of them — and what I found was fascinating:
-
-**🔵 Who controls the internet's backbone?**
-→ Google owns 34 submarine cables — more than Meta and Amazon *combined*
-→ China operates 27 cables averaging 10,615 km each — the longest routes on earth
-→ Amazon has only 1 active cable today — but 4 more are under construction
-
-**🔴 The vulnerabilities no one talks about:**
-→ 33 "Single Points of Failure" identified globally
-→ Batam, Indonesia carries 20 cables — if it goes down, Southeast Asia loses ~40% connectivity
-→ 24 countries have exactly 1 cable. No backup. One cut = total blackout.
-
-**🇻🇳 Vietnam's position:**
-→ 97 million people. 3 landing points.
-→ Vung Tau alone handles 50% of all cable capacity
-→ Vietnam's infrastructure is 3x below the Southeast Asian average
-
-**The workflow:**
-Chrome DevTools → Python/Pandas → Tableau Public
-691 cables · 1,908 landing points · 186 countries
-
-All data self-collected via API — no Kaggle datasets.
-
-🔗 Full interactive dashboard in comments
-
----
-
-*What question about the internet have you always wondered about?*
-
----
-
-**[Trong comment đầu tiên, paste link:]**
-```
-📊 Live Dashboard: https://public.tableau.com/app/profile/zoe.nguyen2497/viz/SubmarineCableIntelligenceWhatKeepstheInternetAlive/Dashboard2
-
-💻 GitHub: https://github.com/[your-username]/submarine-cable-intelligence
