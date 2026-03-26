@@ -1,0 +1,187 @@
+country,total_cables,total_lp,redundancy_score,risk_level
+United States,114,160,127.8,LOW
+Indonesia,72,143,93.3,LOW
+United Kingdom,65,125,83.0,LOW
+Japan,50,68,55.4,LOW
+Singapore,44,8,33.2,LOW
+Italy,37,55,42.4,LOW
+Spain,35,48,38.9,LOW
+France,34,27,31.9,LOW
+Australia,33,27,31.2,LOW
+Malaysia,32,20,28.4,LOW
+Denmark,31,34,31.9,LOW
+Sweden,28,28,28.0,LOW
+Brazil,26,74,40.4,LOW
+Philippines,26,71,39.5,LOW
+Saudi Arabia,24,6,18.6,LOW
+Egypt,23,9,18.8,LOW
+China,23,24,23.3,LOW
+India,22,26,23.2,LOW
+Taiwan,21,21,21.0,LOW
+Portugal,21,19,20.4,LOW
+United Arab Emirates,21,7,16.8,LOW
+Greece,21,36,25.5,LOW
+Canada,21,155,61.2,LOW
+Oman,20,8,16.4,LOW
+Guam,19,5,14.8,LOW
+Norway,17,42,24.5,LOW
+South Korea,16,10,14.2,LOW
+Ireland,16,14,15.4,LOW
+Thailand,16,7,13.3,LOW
+Finland,15,11,13.8,LOW
+Cyprus,13,4,10.3,LOW
+Russia,13,28,17.5,LOW
+South Africa,13,8,11.5,LOW
+Colombia,12,10,11.4,LOW
+Mexico,12,14,12.6,LOW
+Djibouti,12,2,9.0,LOW
+Netherlands,11,8,10.1,LOW
+Maldives,11,17,12.8,LOW
+Germany,10,9,9.7,LOW
+New Zealand,10,20,13.0,LOW
+Panama,9,7,8.4,LOW
+Pakistan,9,1,6.6,LOW
+Fiji,9,3,7.2,LOW
+Qatar,9,5,7.8,LOW
+Kenya,9,3,7.2,LOW
+Chile,9,19,12.0,LOW
+Sri Lanka,9,4,7.5,LOW
+Israel,8,8,8.0,LOW
+Argentina,8,3,6.5,LOW
+French Polynesia,8,23,12.5,LOW
+Nigeria,8,2,6.2,LOW
+Estonia,8,4,6.8,LOW
+Vietnam,8,3,6.5,LOW
+Malta,8,7,7.7,LOW
+Virgin Islands (U.S.),8,10,8.6,LOW
+Algeria,7,6,6.7,LOW
+Curaçao,7,2,5.5,LOW
+Bahrain,7,3,5.8,LOW
+Iran,6,7,6.3,MEDIUM
+Northern Mariana Islands,6,6,6.0,MEDIUM
+Guatemala,6,2,4.8,MEDIUM
+Jordan,6,1,4.5,MEDIUM
+Ghana,6,1,4.5,MEDIUM
+Turkey,6,6,6.0,MEDIUM
+Isle of Man,6,5,5.7,MEDIUM
+Bermuda,6,3,5.1,MEDIUM
+Trinidad and Tobago,6,4,5.4,MEDIUM
+Jamaica,6,9,6.9,MEDIUM
+Dominican Republic,6,5,5.7,MEDIUM
+Morocco,6,5,5.7,MEDIUM
+Kuwait,6,2,4.8,MEDIUM
+Côte d'Ivoire,6,1,4.5,MEDIUM
+Cape Verde,6,10,7.2,MEDIUM
+Somalia,6,3,5.1,MEDIUM
+Libya,6,14,8.4,MEDIUM
+Madagascar,5,4,4.7,MEDIUM
+Yemen,5,3,4.4,MEDIUM
+Guernsey,5,4,4.7,MEDIUM
+Sudan,5,1,3.8,MEDIUM
+Angola,5,7,5.6,MEDIUM
+Venezuela,5,15,8.0,MEDIUM
+Bahamas,5,21,9.8,MEDIUM
+Tunisia,5,2,4.1,MEDIUM
+Brunei,5,3,4.4,MEDIUM
+Tanzania,5,2,4.1,MEDIUM
+Cameroon,5,3,4.4,MEDIUM
+Papua New Guinea,5,15,8.0,MEDIUM
+Mauritius,5,4,4.7,MEDIUM
+Comoros,5,4,4.7,MEDIUM
+"Congo, Dem. Rep.",5,5,5.0,MEDIUM
+Ecuador,5,4,4.7,MEDIUM
+Senegal,5,1,3.8,MEDIUM
+Martinique,5,2,4.1,MEDIUM
+Gabon,5,2,4.1,MEDIUM
+New Caledonia,4,9,5.5,MEDIUM
+Mozambique,4,3,3.7,MEDIUM
+Micronesia,4,4,4.0,MEDIUM
+Saint Kitts and Nevis,4,2,3.4,MEDIUM
+Uruguay,4,2,3.4,MEDIUM
+Virgin Islands (U.K.),4,2,3.4,MEDIUM
+Peru,4,3,3.7,MEDIUM
+Syria,4,1,3.1,MEDIUM
+Albania,4,2,3.4,MEDIUM
+Lebanon,4,4,4.0,MEDIUM
+Bangladesh,4,2,3.4,MEDIUM
+Cuba,4,4,4.0,MEDIUM
+Equatorial Guinea,4,3,3.7,MEDIUM
+Costa Rica,4,2,3.4,MEDIUM
+Christmas Island,4,1,3.1,MEDIUM
+Iceland,4,3,3.7,MEDIUM
+Iraq,4,1,3.1,MEDIUM
+Belgium,4,2,3.4,MEDIUM
+Guadeloupe,4,9,5.5,MEDIUM
+Antigua and Barbuda,4,3,3.7,MEDIUM
+Myanmar,3,2,2.7,HIGH
+Barbados,3,3,3.0,HIGH
+Bulgaria,3,3,3.0,HIGH
+Cambodia,3,1,2.4,HIGH
+Réunion,3,3,3.0,HIGH
+Saint Barthélemy,3,1,2.4,HIGH
+French Guiana,3,2,2.7,HIGH
+Saint Martin,3,3,3.0,HIGH
+Togo,3,1,2.4,HIGH
+Saint Vincent and the Grenadines,3,7,4.2,HIGH
+Samoa,3,2,2.7,HIGH
+American Samoa,3,1,2.4,HIGH
+Lithuania,3,2,2.7,HIGH
+Seychelles,3,2,2.7,HIGH
+Mayotte,3,2,2.7,HIGH
+Timor-Leste,3,1,2.4,HIGH
+Georgia,3,1,2.4,HIGH
+Sint Maarten,3,3,3.0,HIGH
+Ukraine,3,3,3.0,HIGH
+Solomon Islands,3,4,3.3,HIGH
+Tonga,3,3,3.0,HIGH
+"Bonaire, Sint Eustatius and Saba",3,4,3.3,HIGH
+Benin,3,1,2.4,HIGH
+Guyana,3,1,2.4,HIGH
+Honduras,3,3,3.0,HIGH
+Grenada,3,3,3.0,HIGH
+Jersey,3,3,3.0,HIGH
+Aruba,3,2,2.7,HIGH
+Latvia,3,2,2.7,HIGH
+Vanuatu,2,4,2.6,HIGH
+Croatia,2,2,2.0,HIGH
+Tokelau,2,3,2.3,HIGH
+"Congo, Rep.",2,1,1.7,HIGH
+Uganda,2,2,2.0,HIGH
+Belize,2,3,2.3,HIGH
+Cayman Islands,2,2,2.0,HIGH
+Suriname,2,2,2.0,HIGH
+Mauritania,2,2,2.0,HIGH
+Dominica,2,2,2.0,HIGH
+Greenland,2,5,2.9,HIGH
+Monaco,2,2,2.0,HIGH
+Kiribati,2,2,2.0,HIGH
+Namibia,2,1,1.7,HIGH
+Haiti,2,2,2.0,HIGH
+Palau,2,1,1.7,HIGH
+Sao Tome and Principe,2,1,1.7,HIGH
+Faroe Islands,2,2,2.0,HIGH
+Saint Lucia,2,2,2.0,HIGH
+"Saint Helena, Ascension and Tristan da Cunha",1,1,1.0,CRITICAL
+Nicaragua,1,2,1.3,CRITICAL
+Wallis and Futuna,1,2,1.3,CRITICAL
+Liberia,1,1,1.0,CRITICAL
+Anguilla,1,1,1.0,CRITICAL
+Montserrat,1,1,1.0,CRITICAL
+Cook Islands,1,2,1.3,CRITICAL
+Azerbaijan,1,1,1.0,CRITICAL
+Marshall Islands,1,2,1.3,CRITICAL
+Nauru,1,1,1.0,CRITICAL
+Kazakhstan,1,1,1.0,CRITICAL
+Niue,1,1,1.0,CRITICAL
+Gambia,1,1,1.0,CRITICAL
+Tuvalu,1,1,1.0,CRITICAL
+Turks and Caicos Islands,1,1,1.0,CRITICAL
+Cocos (Keeling) Islands,1,1,1.0,CRITICAL
+Sierra Leone,1,1,1.0,CRITICAL
+Saint Pierre and Miquelon,1,2,1.3,CRITICAL
+Guinea,1,1,1.0,CRITICAL
+Poland,1,1,1.0,CRITICAL
+Gibraltar,1,1,1.0,CRITICAL
+British Indian Ocean Territory,1,1,1.0,CRITICAL
+Romania,1,1,1.0,CRITICAL
+Guinea-Bissau,1,1,1.0,CRITICAL
