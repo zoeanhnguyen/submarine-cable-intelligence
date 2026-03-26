@@ -1,4 +1,4 @@
-# 🌊 Submarine Cable Intelligence Dashboard
+# Submarine Cable Intelligence Dashboard
 ### *What keeps the internet alive — and who controls it?*
 
 [![Tableau](https://img.shields.io/badge/Tableau-Public-blue)](https://public.tableau.com/app/profile/zoe.nguyen2497/viz/SubmarineCableIntelligenceWhatKeepstheInternetAlive/Dashboard2)
