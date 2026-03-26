@@ -40,7 +40,7 @@ no one is asking — but everyone should be:
 
 ## Tech Stack & Workflow
 ```
-Chrome DevTools (F12)
+Chrome DevTools (use F12)
         ↓
     Extract 3 JSON files from submarinecablemap.com API
         ↓
